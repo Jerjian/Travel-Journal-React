@@ -1,0 +1,81 @@
+.Travel{
+    display: flex;
+    margin-top: 45px;
+    width: 470px;
+    height: 168px;
+    margin-left: 39px;
+}
+.travel-img{
+    border-radius: 5px;
+    height: 168px;
+    width: 125px;
+    margin-right: 19px;
+}
+.travel-info{
+    margin-top: 12px;
+
+}
+.travel-info-title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+    margin: 7px 0;
+}
+.travel-info-date{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #2B283A;
+    margin-bottom: 9px;
+}
+.travel-info-description{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    /* or 15px */
+
+
+    color: #2B283A;
+}
+.travel-info-nav{
+    display: flex;
+
+}
+.travel-info-nav-img{
+    margin-right: 4px;
+}
+.travel-info-nav-country{
+    margin-right: 12px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+
+    color: #2B283A;
+}
+.travel-info-nav-googleMap{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    /* identical to box height */
+    text-decoration-line: underline;
+    color: #918E9B;
+}
+hr{
+    /* margin-top: 18px; */
+    position: relative;
+    top: 18px;
+    width: 478px;
+    border: 1px solid #F5F5F5;
+}

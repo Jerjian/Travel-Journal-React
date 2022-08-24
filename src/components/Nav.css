@@ -1,0 +1,22 @@
+.nav{
+    background: #F55A5A;
+    width: 550px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-title{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    display: inline-block;
+
+    color: #FFFFFF;
+}
+.nav-icon{
+    margin-right: 7px;
+}
